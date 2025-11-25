@@ -1,4 +1,5 @@
 ClaustrumCodes
+
 Computational models of simulating neuronal responses and neural network dynamics within the claustral circuit.
 This repository contains the MATLAB source code used to simulate neuronal responses and network dynamics in the claustrum. 
 The models are constrained by empirically characterized inhibitory synaptic connectivity, as described in the associated research.
