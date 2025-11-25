@@ -41,13 +41,21 @@ Clone this repository to your local machine:
 git clone [https://github.com/sdrsd/ClaustrumCodes.git](https://github.com/sdrsd/ClaustrumCodes.git)
 
 Add the repository folder (and the Utility subfolder) to your MATLAB path.
+
 Usage
+
 To reproduce the results for a specific figure:
+
 Open MATLAB.
+
 Navigate to the ClaustrumCodes directory.
+
 Run the desired script in the Command Window:
+
 % Example: Run the simulation for Figure 1a
+
 Fig1a_Model_global_CC
 
 Data & Parameters
+
 The simulation parameters are largely defined in Entire population settings.xlsx.
